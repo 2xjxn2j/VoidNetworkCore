@@ -1,0 +1,6 @@
+name: VoidNetworkCore
+main: org.jacob.spigot.plugins.VNC.Main
+version: 1.0
+api-version: "1.13"
+commands:
+  announce:
